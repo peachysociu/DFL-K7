@@ -1,0 +1,19 @@
+h3 {
+    color: #9b9090;
+    background-color: yellow;
+}
+.the3 {
+    border: 1px solid black;
+}
+#id1 {
+    color: blue !important;
+}
+body {
+    color: chartreuse;
+}
+/* .click:active {
+    color: red;
+} */
+.click:hover {
+    color: yellow;
+}
