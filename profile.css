@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.avt{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    
+}
+button{
+    border: 2px dotted black;
+    background-color: pink;
+    width: 100px;
+    height: 50px;
+}
+/* .infor{
+    text-align: center;
+} */
+body {
+    background-image: url("paper.gif");
+    background-color: pink;
+   }
+.box{
+    text-align: center; 
+    padding: 10%;
+}
